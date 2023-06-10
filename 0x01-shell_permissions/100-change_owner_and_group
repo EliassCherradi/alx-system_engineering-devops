@@ -1,3 +1,2 @@
 #!/bin/bash
 sudo find /alx-system_engineering-devops/0x01-shell_permissions -exec chown vincent:staff {} +
-
